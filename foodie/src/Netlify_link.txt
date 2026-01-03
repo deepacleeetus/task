@@ -1,7 +1,0 @@
-https://bejewelled-sunburst-8b1aa2.netlify.app/signin
-
-
-
- Admin Login
-username - admin	
-password - admin

@@ -1,6 +1,0 @@
-https://bejewelled-sunburst-8b1aa2.netlify.app/signin
-
-https://github.com/deepacleetus/Foodie_miniproject_entri
- Admin Login
-username - admin	
-password - admin
